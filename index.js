@@ -31,11 +31,10 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(number){
   let empty = []
-  d = 0
   do{
     empty.push("I love the Beatles!");
-    d++
-  } while d < 15;
+    number++
+  } while number < 15;
 }
 
 
