@@ -32,7 +32,7 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(number){
   let empty = []
   do{
-    
+    empty.push("I love the Beatles!")
   }
 }
 
