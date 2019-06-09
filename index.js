@@ -34,6 +34,7 @@ function iLoveTheBeatles(number){
   d = 0
   do{
     empty.push("I love the Beatles!");
+    d++
   }
 }
 
