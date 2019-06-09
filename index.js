@@ -11,3 +11,5 @@ function theBeatlesPlay(musicians, instruments){
 }
 
 theBeatlesPlay(musicians, instruments);
+
+console.log(empty)
