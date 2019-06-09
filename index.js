@@ -29,13 +29,20 @@ function johnLennonFacts(facts){
 }
 
 
-function iLoveTheBeatles(number){
-  let empty = []
-  do{
-    empty.push("I love the Beatles!");
-    number++
-  } while (number < 9);
-}
+function iLoveTheBeatles(number) {
+    const arr = [];
+   
+    do {
+      arr.push(`I love the Beatles!`)
+      number++
+    }
+    while(number < 15)
+    
+    return arr
+    
+  }
+  
+  iLoveTheBeatles(16);
 
 
 
