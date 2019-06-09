@@ -24,6 +24,7 @@ function johnLennonFacts(facts){
     newarr.push(`${facts[c]}!!!`);
     c++;
   }
+  return newarr
 }
 
 
