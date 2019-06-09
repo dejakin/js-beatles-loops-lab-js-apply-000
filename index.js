@@ -11,21 +11,23 @@ function theBeatlesPlay(musicians, instruments){
   return empty
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+let facts
 
 function johnLennonFacts(array){
   
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
