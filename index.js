@@ -19,7 +19,7 @@ let facts = ["He was the last Beatle to learn to drive",
 function johnLennonFacts(facts){
   let c = 0;
   while (c < facts.length){
-    return `${
+    return `${facts[c]}!!!`
   }
 }
 
