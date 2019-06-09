@@ -11,7 +11,7 @@ function theBeatlesPlay(musicians, instruments){
   return empty
 }
 
-let facts
+let facts = []
 
 function johnLennonFacts(array){
   
