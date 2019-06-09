@@ -1,7 +1,7 @@
 // add solution here
 
-let musicians = ['John Lennon', 'Paul McCartney']
-let instruments = ['Guitar', 'Piano']
+let musicians = ['John Lennon', 'Paul McCartney', 'George Harrison', 'Ringo Starr']
+let instruments = ['Guitar', 'Bass Guitar', 'Lead Guitar', 'Drums']
 let empty = []
 
 function theBeatlesPlay(musicians, instruments){
