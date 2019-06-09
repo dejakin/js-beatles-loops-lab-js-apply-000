@@ -17,7 +17,8 @@ let facts = ["He was the last Beatle to learn to drive",
   "He hated the sound of his own voice"]
 
 function johnLennonFacts(array){
-  let c = 0
+  let c = 0;
+  while ()
 }
 
 
