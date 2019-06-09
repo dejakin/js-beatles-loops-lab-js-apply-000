@@ -9,5 +9,3 @@ function theBeatlesPlay(musicians, instruments){
     empty.push(`${musicians[a]} plays ${instruments[a]}`)
   }
 }
-
-theBeatlesPlay(musicians, instruments);
