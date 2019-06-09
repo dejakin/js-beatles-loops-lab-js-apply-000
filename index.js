@@ -19,8 +19,8 @@ let facts = ["He was the last Beatle to learn to drive",
 let newarr = []
 
 function johnLennonFacts(facts){
-  let c = 0;
-  while (c < facts.length){
+  let c = 0; 
+  while (facts.length > c){
     newarr.push(`${facts[c]}!!!`);
     c++;
   }
