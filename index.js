@@ -18,10 +18,10 @@ let facts = ["He was the last Beatle to learn to drive",
   
 let newarr = []
 
-function johnLennonFacts(facts){
+function johnLennonFacts(array){
   let c = 0;
-  while (c < facts.length){
-    newarr.push(`${facts[c]}!!!`);
+  while (c < array.length){
+    newarr.push(`${array[c]}!!!`);
     c++;
   }
   return newarr;
