@@ -11,7 +11,10 @@ function theBeatlesPlay(musicians, instruments){
   return empty
 }
 
-let facts = ["foo", "bar"]
+let facts = ["He was the last Beatle to learn to drive",
+  "He was never a vegetarian",
+  "He was a choir boy and boy scout",
+  "He hated the sound of his own voice"]
   
 let newarr = []
 
@@ -21,7 +24,7 @@ function johnLennonFacts(facts){
     newarr.push(`${facts[c]}!!!`);
     c++;
   }
-  return newarr
+  return newarr;
 }
 
 
