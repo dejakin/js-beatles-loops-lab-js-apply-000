@@ -27,7 +27,7 @@ function johnLennonFacts(facts){
   return newarr;
 }
 
-
+johnLennonFacts(facts);
 
 
 
